@@ -1,2 +1,2 @@
-# RGT
-Role-Gated Transformer
+# Role-Gated Transformer
+
